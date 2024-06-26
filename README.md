@@ -7,6 +7,7 @@ This app can convert up to four currencies being: real, dolar, euro and ieni.
 
 Hello! I'm Lucas Campos and I make this project using Flutter.
 I used the MVC architecture to develop this app.
+Also, just to inform. This app was develop for Android and IOs.
 
 ## Difficulties
 
